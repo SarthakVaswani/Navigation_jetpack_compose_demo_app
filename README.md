@@ -1,4 +1,4 @@
-I notice that the file content wasn't changed in your edit. I'll help you add the README content to your file.
+
 
 ```markdown:README.md
 # Jetpack Compose Navigation Demo App
@@ -15,7 +15,10 @@ A simple Android application demonstrating navigation in Jetpack Compose. This a
 - Back navigation handling
 
 ## 📱 Screenshots
-[Screen Recording 2025-01-15 at 7.19.34 PM.mov](../../Desktop/Screen%20Recording%202025-01-15%20at%207.19.34%E2%80%AFPM.mov)
+<img src="https://github.com/user-attachments/assets/f3031a5a-f945-489b-81b1-4ffc33c60949" width="240" />
+<img rc="https://github.com/user-attachments/assets/a40f7bcd-3c9b-4e9c-8da2-ecfad9ceff9b"  width="240" />
+
+
 
 ## 🛠️ Tech Stack
 
