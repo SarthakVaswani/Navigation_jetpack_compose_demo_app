@@ -1,6 +1,5 @@
 
 
-```markdown:README.md
 # Jetpack Compose Navigation Demo App
 
 A simple Android application demonstrating navigation in Jetpack Compose. This app showcases how to implement navigation between screens, pass arguments, and handle back navigation using Jetpack Compose Navigation component.
@@ -15,6 +14,10 @@ A simple Android application demonstrating navigation in Jetpack Compose. This a
 - Back navigation handling
 
 ## 📱 Screenshots
+
+https://github.com/user-attachments/assets/1a8a0063-e70c-4472-98e1-1ce946b84518
+
+
 <img src="https://github.com/user-attachments/assets/f3031a5a-f945-489b-81b1-4ffc33c60949" width="240" />
 <img rc="https://github.com/user-attachments/assets/a40f7bcd-3c9b-4e9c-8da2-ecfad9ceff9b"  width="240" />
 
