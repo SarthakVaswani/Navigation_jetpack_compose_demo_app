@@ -15,8 +15,7 @@ A simple Android application demonstrating navigation in Jetpack Compose. This a
 - Back navigation handling
 
 ## 📱 Screenshots
-
-[Add your screenshots here]
+[Screen Recording 2025-01-15 at 7.19.34 PM.mov](../../Desktop/Screen%20Recording%202025-01-15%20at%207.19.34%E2%80%AFPM.mov)
 
 ## 🛠️ Tech Stack
 
